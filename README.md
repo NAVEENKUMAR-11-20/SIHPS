@@ -43,22 +43,23 @@ Government of Gujarat
 
 
 ## Use Cases
+![arci (3)](https://github.com/user-attachments/assets/55dc5fcc-842f-443e-b428-04100c3b0960)
 
 
 ## Technology Stack
 
-   Frontend: React.js (for dynamic and responsive user interfaces)
-   Backend: Node.js (for server-side logic and APIs)
-   Database: PostgreSQL with PostGIS extension (for geospatial data handling)
-   Mapping Services: Google Maps API (for location visualization and geocoding)
-   Authentication: Firebase Authentication (for secure login and privacy controls)
-   Testing and API Management: Postman or Insomnia (for API testing and documentation)
-   Version Control: Git (for collaborative development and code versioning)
+  1. Frontend: React.js (for dynamic and responsive user interfaces)
+  2. Backend: Node.js (for server-side logic and APIs)
+  3. Database: PostgreSQL with PostGIS extension (for geospatial data handling)
+  4. Mapping Services: Google Maps API (for location visualization and geocoding)
+  5. Authentication: Firebase Authentication (for secure login and privacy controls)
+  6. Testing and API Management: Postman or Insomnia (for API testing and documentation)
+  7. Version Control: Git (for collaborative development and code versioning)
 
 ## Dependencies
-  Mapping Service (10 days)
-  Data Collection (10 days)
-  Frontend Development (15 days)
-  Backend Development (20 days)
-  Testing and Deployment (10 days)
-  Budget Allocation (₹50,000)
+ 1. Mapping Service (10 days)
+ 2. Data Collection (10 days)
+ 3. Frontend Development (15 days)
+ 4. Backend Development (20 days)
+ 5. Testing and Deployment (10 days)
+ 6. Budget Allocation (₹1,00,000)
